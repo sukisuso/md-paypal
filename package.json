@@ -1,0 +1,22 @@
+{
+  "name": "md-paypal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sukisuso/md-paypal.git"
+  },
+  "author": "Jesus Juan Aguilar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sukisuso/md-paypal/issues"
+  },
+  "homepage": "https://github.com/sukisuso/md-paypal",
+  "dependencies": {
+    "paypal-rest-sdk": "^1.7.1"
+  }
+}
